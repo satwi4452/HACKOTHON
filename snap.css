@@ -1,0 +1,70 @@
+   
+    
+    #i1{
+    font-size: 25px;
+}
+#nav1{
+    background-color: white;
+}
+#nav{
+    background-color: white;
+}
+#button{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding-right:15px ;
+    padding-left: 15px;
+    border-color: solid black;
+   
+    border-style: solid;
+    
+}
+#login{
+    position: relative;
+    right: 30px;
+    
+}
+#h1{
+    font-size: 90px;
+    position:relative;
+    top: 80px;
+    left: 60px;
+    padding:40px ;
+}
+#h2{
+    font-size: 90px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+#para{
+    position: relative;
+    top: 30px;
+    text-justify: inter-word;
+    left: 110px;
+}
+#img{
+    height: 600px;
+    width: 500px;
+    position: relative;
+   
+}
+#b1{
+    background-color: white;
+    color: black;
+    border-color: solid black;
+    position: relative;
+    left: 110px;
+    padding-right:15px ;
+    padding-left: 15px;
+    border-style: solid;
+    border-radius:10px;
+
+}
+#con1{
+    position: relative;
+    left: 80px;
+}
+
